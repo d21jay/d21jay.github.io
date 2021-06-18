@@ -62,7 +62,7 @@ google_ad_slot           :
 # Site Author
 author:
   name             : "Jayendra Kumar"
-  # avatar           : "profile.jpg"
+  avatar           : "profile.jpg"
   bio              : " coding :computer:"
   location         :
   email            : mailtokumarjayendra@gmail.com
@@ -81,7 +81,7 @@ author:
   linkedin         : jay21
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
@@ -90,7 +90,7 @@ author:
   xing             :
   youtube          :
 
-# Relevant issue: github.com/github/pages-gem/issues/399#issuecomment-301827749
+# Relevant issue: 
 github: [metadata]
 
 collections:
