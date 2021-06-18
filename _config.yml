@@ -20,7 +20,7 @@ words_per_minute         : 200
 comments:
   provider               :  "disqus" # true (default), "disqus", "facebook", "google-plus"
   disqus:
-    shortname            : shivansh # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : jay # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
@@ -63,7 +63,7 @@ google_ad_slot           :
 author:
   name             : "Jayendra Kumar"
   # avatar           : "profile.jp-g"
-  bio              : " :computer:"
+  bio              : " coding :computer:"
   location         :
   email            : mailtokumarjayendra@gmail.com
   uri              :
